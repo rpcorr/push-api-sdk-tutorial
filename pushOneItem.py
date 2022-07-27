@@ -2,7 +2,7 @@ from coveopush import CoveoPush
 from coveopush import Document
 
 def main():
-   src_id = "ronancorrbellcadigitalcrowbk0cyffy-wlohpclpmz6fm7x6ozt3klcdba"
+   src_id = "ronancorrbellcadigitalcrowbk0cyffy-vcf4h5odscsa32ngqtrwzfclg4"
    org_id = "ronancorrbellcadigitalcrowbk0cyffy"
    api_key = "xx11ad81c0-3cc1-4afe-a72a-00da393886e0"
    
