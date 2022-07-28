@@ -1,0 +1,599 @@
+{
+    "members": [
+      {
+        "identity": {
+          "name": "jtheforce@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "mthedoor@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "lsimonwater@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "gbelson@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "asmith@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "bjones@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "cbrown@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "dmoore@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "emitchell@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "fwallace@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "grichardson@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "honeil@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "ctariceanu@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "xyoumei@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "iminac@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "jmartin@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "cschmitz@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "msubba@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "rfaure@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "vgrigorev@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "gdias@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "dcaranfil@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "vstroici@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "cchindris@techzample.com",
+          "type": "USER"
+        }
+      },
+      {
+        "identity": {
+          "name": "SeniorExecutives",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "jtheforce@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "mthedoor@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "lsimonwater@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "gbelson@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "HREmployees",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "BusinessPartnershipTeam",
+            "type": "GROUP"
+          },
+          {
+            "name": "TalentAcquisitionTeam",
+            "type": "GROUP"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "BusinessPartnershipTeam",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "asmith@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "bjones@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "cbrown@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "dmoore@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "TalentAcquisitionTeam",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "emitchell@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "fwallace@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "grichardson@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "honeil@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "ProductTeam",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "ctariceanu@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "xyoumei@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "iminac@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "jmartin@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "GlobalSalesTeam",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "cschmitz@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "msubba@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "rfaure@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "vgrigorev@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "ProductMarketingTeam",
+          "type": "GROUP"
+        },
+        "members": [
+          {
+            "name": "gdias@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "dcaranfil@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "vstroici@techzample.com",
+            "type": "USER"
+          },
+          {
+            "name": "cchindris@techzample.com",
+            "type": "USER"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "identity": {
+          "name": "jtheforce@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "jtheforce@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "mthedoor@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "mthedoor@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "lsimonwater@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "lsimonwater@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "gbelson@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "gbelson@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "asmith@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "asmith@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "bjones@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "bjones@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "cbrown@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "cbrown@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "dmoore@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "dmoore@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "emitchell@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "emitchell@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "fwallace@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "fwallace@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "grichardson@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "grichardson@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "honeil@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "honeil@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "ctariceanu@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "ctariceanu@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "xyoumei@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "xyoumei@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "iminac@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "iminac@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "jmartin@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "jmartin@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "cschmitz@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "cschmitz@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "msubba@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "msubba@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "rfaure@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "rfaure@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "vgrigorev@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "vgrigorev@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "gdias@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "gdias@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "dcaranfil@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "dcaranfil@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "vstroici@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "vstroici@techzample.com",
+            "type": "USER"
+          }
+        ]
+      },
+      {
+        "identity": {
+          "name": "cchindris@techzample.com",
+          "type": "USER"
+        },
+        "mappings": [
+          {
+            "name": "cchindris@techzample.com",
+            "type": "USER"
+          }
+        ]
+      }
+    ],
+    "deleted": []
+  }
