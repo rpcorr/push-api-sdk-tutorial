@@ -2,9 +2,9 @@ from coveopush import CoveoPush
 from coveopush import Document
 
 def main():
-   src_id = "ronancorrbellcadigitalcrowbk0cyffy-vcf4h5odscsa32ngqtrwzfclg4"
-   org_id = "ronancorrbellcadigitalcrowbk0cyffy"
-   api_key = "xx11ad81c0-3cc1-4afe-a72a-00da393886e0"
+   src_id = "your source id"
+   org_id = "your org id"
+   api_key = "your api key"
    
    push = CoveoPush.Push(src_id, org_id, api_key)
    mydoc = Document("https://employeedbsite.herokuapp.com/employees/Jaroslav-Pu%C5%A1ka/")
